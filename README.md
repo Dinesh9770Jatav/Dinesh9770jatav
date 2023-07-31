@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **AI-BIA**
 
-- 💬 Ask me about **Python,MySQL, reactJS, Machine Learning, Data Scientist, R Language**
+- 💬 Ask me about **Data Analyst, Front End Developer,Programing, Python,MySQL, reactJS, Machine Learning, Data Scientist, R Language**
 
-- 📫 How to reach me **jatavd202@gmail.com**
+- 📫 How to reach me **jatavd202@gmail.com** **+91 9770687135**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
